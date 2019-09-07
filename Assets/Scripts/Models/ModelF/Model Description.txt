@@ -1,0 +1,2 @@
+This model will also include directions on trajectory points, to allow
+lateral strafing and backwards movement.

@@ -1,0 +1,1900 @@
+fileFormatVersion: 2
+guid: c983bffa82ac47741a56a721f771587a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: MR:Export:BA_Root01
+    100002: MR:Export:Back1_Attacher
+    100004: MR:Export:Bip01
+    100006: MR:Export:Camera_Attacher_01
+    100008: MR:Export:Camera_Attacher_02
+    100010: MR:Export:Fa_Adams_Apple
+    100012: MR:Export:Fa_Brow_Center
+    100014: MR:Export:Fa_Brow_Left_Inn
+    100016: MR:Export:Fa_Brow_Left_Mid
+    100018: MR:Export:Fa_Brow_Left_Out
+    100020: MR:Export:Fa_Brow_Right_Inn
+    100022: MR:Export:Fa_Brow_Right_Mid
+    100024: MR:Export:Fa_Brow_Right_Out
+    100026: MR:Export:Fa_Cheek_Bulge_Left
+    100028: MR:Export:Fa_Cheek_Bulge_Left_Out
+    100030: MR:Export:Fa_Cheek_Bulge_Right
+    100032: MR:Export:Fa_Cheek_Bulge_Right_Out
+    100034: MR:Export:Fa_Cheek_Fold_Left_A
+    100036: MR:Export:Fa_Cheek_Fold_Left_B
+    100038: MR:Export:Fa_Cheek_Fold_Left_C
+    100040: MR:Export:Fa_Cheek_Fold_Left_D
+    100042: MR:Export:Fa_Cheek_Fold_Right_A
+    100044: MR:Export:Fa_Cheek_Fold_Right_B
+    100046: MR:Export:Fa_Cheek_Fold_Right_C
+    100048: MR:Export:Fa_Cheek_Fold_Right_D
+    100050: MR:Export:Fa_Cheek_Left
+    100052: MR:Export:Fa_Cheek_Right
+    100054: MR:Export:Fa_Chin
+    100056: MR:Export:Fa_Dimpler_Left
+    100058: MR:Export:Fa_Dimpler_Right
+    100060: MR:Export:Fa_Ear_Left
+    100062: MR:Export:Fa_Ear_Right
+    100064: MR:Export:Fa_Eye_Left
+    100066: MR:Export:Fa_Eye_Right
+    100068: MR:Export:Fa_Eyebag_Left_Inn
+    100070: MR:Export:Fa_Eyebag_Left_Mid
+    100072: MR:Export:Fa_Eyebag_Left_Out
+    100074: MR:Export:Fa_Eyebag_Right_Inn
+    100076: MR:Export:Fa_Eyebag_Right_Mid
+    100078: MR:Export:Fa_Eyebag_Right_Out
+    100080: MR:Export:Fa_Forehead_Left_Inn
+    100082: MR:Export:Fa_Forehead_Left_Out
+    100084: MR:Export:Fa_Forehead_Right_Inn
+    100086: MR:Export:Fa_Forehead_Right_Out
+    100088: MR:Export:Fa_Jaw
+    100090: MR:Export:Fa_Jaw_Clench_Left
+    100092: MR:Export:Fa_Jaw_Clench_Right
+    100094: MR:Export:Fa_Jaw_Open_Bulge_Left
+    100096: MR:Export:Fa_Jaw_Open_Bulge_Right
+    100098: MR:Export:Fa_Lip_Corner_Left
+    100100: MR:Export:Fa_Lip_Corner_Right
+    100102: MR:Export:Fa_Lip_Lo_Center
+    100104: MR:Export:Fa_Lip_Lo_Left_Inn
+    100106: MR:Export:Fa_Lip_Lo_Left_Out
+    100108: MR:Export:Fa_Lip_Lo_Right_Inn
+    100110: MR:Export:Fa_Lip_Lo_Right_Out
+    100112: MR:Export:Fa_Lip_Up_Center
+    100114: MR:Export:Fa_Lip_Up_Left_Inn
+    100116: MR:Export:Fa_Lip_Up_Left_Out
+    100118: MR:Export:Fa_Lip_Up_Right_Inn
+    100120: MR:Export:Fa_Lip_Up_Right_Out
+    100122: MR:Export:Fa_Low_Lid_Left_Center
+    100124: MR:Export:Fa_Low_Lid_Left_Inner
+    100126: MR:Export:Fa_Low_Lid_Left_Mid
+    100128: MR:Export:Fa_Low_Lid_Left_Outer
+    100130: MR:Export:Fa_Low_Lid_Right_Center
+    100132: MR:Export:Fa_Low_Lid_Right_Inner
+    100134: MR:Export:Fa_Low_Lid_Right_Mid
+    100136: MR:Export:Fa_Low_Lid_Right_Outer
+    100138: MR:Export:Fa_Nose_Bridge
+    100140: MR:Export:Fa_Nose_Bridge_Top
+    100142: MR:Export:Fa_Nose_Ridge
+    100144: MR:Export:Fa_Nose_Tip
+    100146: MR:Export:Fa_Nose_Under
+    100148: MR:Export:Fa_Nose_Wrinkle_Left
+    100150: MR:Export:Fa_Nose_Wrinkle_Right
+    100152: MR:Export:Fa_Nostril_Left
+    100154: MR:Export:Fa_Nostril_Left_Inner
+    100156: MR:Export:Fa_Nostril_Right
+    100158: MR:Export:Fa_Nostril_Right_Inner
+    100160: MR:Export:Fa_Over_Mouth_Center
+    100162: MR:Export:Fa_Over_Mouth_Left
+    100164: MR:Export:Fa_Over_Mouth_Right
+    100166: MR:Export:Fa_Pupil_Left
+    100168: MR:Export:Fa_Pupil_Right
+    100170: MR:Export:Fa_Squint_Left_Inn
+    100172: MR:Export:Fa_Squint_Left_Mid
+    100174: MR:Export:Fa_Squint_Left_Out
+    100176: MR:Export:Fa_Squint_Right_Inn
+    100178: MR:Export:Fa_Squint_Right_Mid
+    100180: MR:Export:Fa_Squint_Right_Out
+    100182: MR:Export:Fa_Teeth_Dw
+    100184: MR:Export:Fa_Teeth_Up
+    100186: MR:Export:Fa_Temple_Left
+    100188: MR:Export:Fa_Temple_Right
+    100190: MR:Export:Fa_Tongue_Base
+    100192: MR:Export:Fa_Tongue_Tip
+    100194: MR:Export:Fa_Under_Chin_Center
+    100196: MR:Export:Fa_Under_Chin_Left_In
+    100198: MR:Export:Fa_Under_Chin_Left_Out
+    100200: MR:Export:Fa_Under_Chin_Right_In
+    100202: MR:Export:Fa_Under_Chin_Right_Out
+    100204: MR:Export:Fa_Under_Mouth_Center
+    100206: MR:Export:Fa_Under_Mouth_Left
+    100208: MR:Export:Fa_Under_Mouth_Right
+    100210: MR:Export:Fa_Up_Lid_Left_Center
+    100212: MR:Export:Fa_Up_Lid_Left_Inner
+    100214: MR:Export:Fa_Up_Lid_Left_Mid
+    100216: MR:Export:Fa_Up_Lid_Left_Outer
+    100218: MR:Export:Fa_Up_Lid_Right_Center
+    100220: MR:Export:Fa_Up_Lid_Right_Inner
+    100222: MR:Export:Fa_Up_Lid_Right_Mid
+    100224: MR:Export:Fa_Up_Lid_Right_Outer
+    100226: MR:Export:Free_Attacher
+    100228: MR:Export:Free_Attacher_Prop_01
+    100230: MR:Export:Free_Attacher_Prop_02
+    100232: MR:Export:Ground
+    100234: MR:Export:Head
+    100236: MR:Export:Head_Attacher
+    100238: MR:Export:HeadNub
+    100240: MR:Export:Hip_Attacher
+    100242: MR:Export:L_Calf
+    100244: MR:Export:L_Clavicle
+    100246: MR:Export:L_Finger0
+    100248: MR:Export:L_Finger01
+    100250: MR:Export:L_Finger02
+    100252: MR:Export:L_Finger0Nub
+    100254: MR:Export:L_Finger1
+    100256: MR:Export:L_Finger11
+    100258: MR:Export:L_Finger12
+    100260: MR:Export:L_Finger1Nub
+    100262: MR:Export:L_Finger2
+    100264: MR:Export:L_Finger21
+    100266: MR:Export:L_Finger22
+    100268: MR:Export:L_Finger2Nub
+    100270: MR:Export:L_Finger3
+    100272: MR:Export:L_Finger31
+    100274: MR:Export:L_Finger32
+    100276: MR:Export:L_Finger3Nub
+    100278: MR:Export:L_Finger4
+    100280: MR:Export:L_Finger41
+    100282: MR:Export:L_Finger42
+    100284: MR:Export:L_Finger4Nub
+    100286: MR:Export:L_Foot
+    100288: MR:Export:L_Forearm
+    100290: MR:Export:L_ForeTwist
+    100292: MR:Export:L_ForeTwist1
+    100294: MR:Export:L_ForeTwist2
+    100296: MR:Export:L_Hand
+    100298: MR:Export:L_Hand_Attacher
+    100300: MR:Export:L_Thigh
+    100302: MR:Export:L_Toe0
+    100304: MR:Export:L_Toe0Nub
+    100306: MR:Export:L_UpperArm
+    100308: MR:Export:LThighTwist
+    100310: MR:Export:LThighTwist1
+    100312: MR:Export:LThighTwist2
+    100314: MR:Export:LUpArmTwist
+    100316: MR:Export:LUpArmTwist1
+    100318: MR:Export:LUpArmTwist2
+    100320: MR:Export:Neck
+    100322: MR:Export:Neck1
+    100324: MR:Export:Pelvis
+    100326: MR:Export:Pistol_Holster_Attacher
+    100328: MR:Export:R_Calf
+    100330: MR:Export:R_Clavicle
+    100332: MR:Export:R_Finger0
+    100334: MR:Export:R_Finger01
+    100336: MR:Export:R_Finger02
+    100338: MR:Export:R_Finger0Nub
+    100340: MR:Export:R_Finger1
+    100342: MR:Export:R_Finger11
+    100344: MR:Export:R_Finger12
+    100346: MR:Export:R_Finger1Nub
+    100348: MR:Export:R_Finger2
+    100350: MR:Export:R_Finger21
+    100352: MR:Export:R_Finger22
+    100354: MR:Export:R_Finger2Nub
+    100356: MR:Export:R_Finger3
+    100358: MR:Export:R_Finger31
+    100360: MR:Export:R_Finger32
+    100362: MR:Export:R_Finger3Nub
+    100364: MR:Export:R_Finger4
+    100366: MR:Export:R_Finger41
+    100368: MR:Export:R_Finger42
+    100370: MR:Export:R_Finger4Nub
+    100372: MR:Export:R_Foot
+    100374: MR:Export:R_Forearm
+    100376: MR:Export:R_ForeTwist
+    100378: MR:Export:R_ForeTwist1
+    100380: MR:Export:R_ForeTwist2
+    100382: MR:Export:R_Hand
+    100384: MR:Export:R_Hand_Attacher
+    100386: MR:Export:R_Thigh
+    100388: MR:Export:R_Toe0
+    100390: MR:Export:R_Toe0Nub
+    100392: MR:Export:R_UpperArm
+    100394: MR:Export:Rifle_Holster_Attacher
+    100396: MR:Export:RThighTwist
+    100398: MR:Export:RThighTwist1
+    100400: MR:Export:RThighTwist2
+    100402: MR:Export:RUpArmTwist
+    100404: MR:Export:RUpArmTwist1
+    100406: MR:Export:RUpArmTwist2
+    100408: MR:Export:Spine
+    100410: MR:Export:Spine1
+    100412: MR:Export:Spine1_Attacher
+    100414: MR:Export:Spine2
+    100416: MR:Export:XTRA_Align_L_Ass
+    100418: MR:Export:XTRA_Align_L_Elbow
+    100420: MR:Export:XTRA_Align_L_Knee
+    100422: MR:Export:XTRA_Align_L_Pec
+    100424: MR:Export:XTRA_Align_Neck
+    100426: MR:Export:XTRA_Align_R_Ass
+    100428: MR:Export:XTRA_Align_R_Elbow
+    100430: MR:Export:XTRA_Align_R_Knee
+    100432: MR:Export:XTRA_Align_R_Pec
+    100434: MR:Export:XTRA_Mus_L_Ass
+    100436: MR:Export:XTRA_Mus_L_Elbow
+    100438: MR:Export:XTRA_Mus_L_Foot
+    100440: MR:Export:XTRA_Mus_L_Hip
+    100442: MR:Export:XTRA_Mus_L_Knee
+    100444: MR:Export:XTRA_Mus_L_Pec
+    100446: MR:Export:XTRA_Mus_L_Toe
+    100448: MR:Export:XTRA_Mus_Neck
+    100450: MR:Export:XTRA_Mus_R_Ass
+    100452: MR:Export:XTRA_Mus_R_Elbow
+    100454: MR:Export:XTRA_Mus_R_Foot
+    100456: MR:Export:XTRA_Mus_R_Hip
+    100458: MR:Export:XTRA_Mus_R_Knee
+    100460: MR:Export:XTRA_Mus_R_Pec
+    100462: MR:Export:XTRA_Mus_R_Toe
+    100464: MR:Export:XTRA_Pivot_L_Heel
+    100466: MR:Export:XTRA_Pivot_R_Heel
+    100468: MR:Export:XTRA_Target_L_Ass
+    100470: MR:Export:XTRA_Target_L_Elbow
+    100472: MR:Export:XTRA_Target_L_Foot
+    100474: MR:Export:XTRA_Target_L_Knee
+    100476: MR:Export:XTRA_Target_L_Pec
+    100478: MR:Export:XTRA_Target_R_Ass
+    100480: MR:Export:XTRA_Target_R_Elbow
+    100482: MR:Export:XTRA_Target_R_Foot
+    100484: MR:Export:XTRA_Target_R_Knee
+    100486: MR:Export:XTRA_Target_R_Pec
+    100488: MR:Export:XTRA_Up_Pec
+    100490: MR:Export:XTRA_Up_Thigh
+    100492: //RootNode
+    400000: MR:Export:BA_Root01
+    400002: MR:Export:Back1_Attacher
+    400004: MR:Export:Bip01
+    400006: MR:Export:Camera_Attacher_01
+    400008: MR:Export:Camera_Attacher_02
+    400010: MR:Export:Fa_Adams_Apple
+    400012: MR:Export:Fa_Brow_Center
+    400014: MR:Export:Fa_Brow_Left_Inn
+    400016: MR:Export:Fa_Brow_Left_Mid
+    400018: MR:Export:Fa_Brow_Left_Out
+    400020: MR:Export:Fa_Brow_Right_Inn
+    400022: MR:Export:Fa_Brow_Right_Mid
+    400024: MR:Export:Fa_Brow_Right_Out
+    400026: MR:Export:Fa_Cheek_Bulge_Left
+    400028: MR:Export:Fa_Cheek_Bulge_Left_Out
+    400030: MR:Export:Fa_Cheek_Bulge_Right
+    400032: MR:Export:Fa_Cheek_Bulge_Right_Out
+    400034: MR:Export:Fa_Cheek_Fold_Left_A
+    400036: MR:Export:Fa_Cheek_Fold_Left_B
+    400038: MR:Export:Fa_Cheek_Fold_Left_C
+    400040: MR:Export:Fa_Cheek_Fold_Left_D
+    400042: MR:Export:Fa_Cheek_Fold_Right_A
+    400044: MR:Export:Fa_Cheek_Fold_Right_B
+    400046: MR:Export:Fa_Cheek_Fold_Right_C
+    400048: MR:Export:Fa_Cheek_Fold_Right_D
+    400050: MR:Export:Fa_Cheek_Left
+    400052: MR:Export:Fa_Cheek_Right
+    400054: MR:Export:Fa_Chin
+    400056: MR:Export:Fa_Dimpler_Left
+    400058: MR:Export:Fa_Dimpler_Right
+    400060: MR:Export:Fa_Ear_Left
+    400062: MR:Export:Fa_Ear_Right
+    400064: MR:Export:Fa_Eye_Left
+    400066: MR:Export:Fa_Eye_Right
+    400068: MR:Export:Fa_Eyebag_Left_Inn
+    400070: MR:Export:Fa_Eyebag_Left_Mid
+    400072: MR:Export:Fa_Eyebag_Left_Out
+    400074: MR:Export:Fa_Eyebag_Right_Inn
+    400076: MR:Export:Fa_Eyebag_Right_Mid
+    400078: MR:Export:Fa_Eyebag_Right_Out
+    400080: MR:Export:Fa_Forehead_Left_Inn
+    400082: MR:Export:Fa_Forehead_Left_Out
+    400084: MR:Export:Fa_Forehead_Right_Inn
+    400086: MR:Export:Fa_Forehead_Right_Out
+    400088: MR:Export:Fa_Jaw
+    400090: MR:Export:Fa_Jaw_Clench_Left
+    400092: MR:Export:Fa_Jaw_Clench_Right
+    400094: MR:Export:Fa_Jaw_Open_Bulge_Left
+    400096: MR:Export:Fa_Jaw_Open_Bulge_Right
+    400098: MR:Export:Fa_Lip_Corner_Left
+    400100: MR:Export:Fa_Lip_Corner_Right
+    400102: MR:Export:Fa_Lip_Lo_Center
+    400104: MR:Export:Fa_Lip_Lo_Left_Inn
+    400106: MR:Export:Fa_Lip_Lo_Left_Out
+    400108: MR:Export:Fa_Lip_Lo_Right_Inn
+    400110: MR:Export:Fa_Lip_Lo_Right_Out
+    400112: MR:Export:Fa_Lip_Up_Center
+    400114: MR:Export:Fa_Lip_Up_Left_Inn
+    400116: MR:Export:Fa_Lip_Up_Left_Out
+    400118: MR:Export:Fa_Lip_Up_Right_Inn
+    400120: MR:Export:Fa_Lip_Up_Right_Out
+    400122: MR:Export:Fa_Low_Lid_Left_Center
+    400124: MR:Export:Fa_Low_Lid_Left_Inner
+    400126: MR:Export:Fa_Low_Lid_Left_Mid
+    400128: MR:Export:Fa_Low_Lid_Left_Outer
+    400130: MR:Export:Fa_Low_Lid_Right_Center
+    400132: MR:Export:Fa_Low_Lid_Right_Inner
+    400134: MR:Export:Fa_Low_Lid_Right_Mid
+    400136: MR:Export:Fa_Low_Lid_Right_Outer
+    400138: MR:Export:Fa_Nose_Bridge
+    400140: MR:Export:Fa_Nose_Bridge_Top
+    400142: MR:Export:Fa_Nose_Ridge
+    400144: MR:Export:Fa_Nose_Tip
+    400146: MR:Export:Fa_Nose_Under
+    400148: MR:Export:Fa_Nose_Wrinkle_Left
+    400150: MR:Export:Fa_Nose_Wrinkle_Right
+    400152: MR:Export:Fa_Nostril_Left
+    400154: MR:Export:Fa_Nostril_Left_Inner
+    400156: MR:Export:Fa_Nostril_Right
+    400158: MR:Export:Fa_Nostril_Right_Inner
+    400160: MR:Export:Fa_Over_Mouth_Center
+    400162: MR:Export:Fa_Over_Mouth_Left
+    400164: MR:Export:Fa_Over_Mouth_Right
+    400166: MR:Export:Fa_Pupil_Left
+    400168: MR:Export:Fa_Pupil_Right
+    400170: MR:Export:Fa_Squint_Left_Inn
+    400172: MR:Export:Fa_Squint_Left_Mid
+    400174: MR:Export:Fa_Squint_Left_Out
+    400176: MR:Export:Fa_Squint_Right_Inn
+    400178: MR:Export:Fa_Squint_Right_Mid
+    400180: MR:Export:Fa_Squint_Right_Out
+    400182: MR:Export:Fa_Teeth_Dw
+    400184: MR:Export:Fa_Teeth_Up
+    400186: MR:Export:Fa_Temple_Left
+    400188: MR:Export:Fa_Temple_Right
+    400190: MR:Export:Fa_Tongue_Base
+    400192: MR:Export:Fa_Tongue_Tip
+    400194: MR:Export:Fa_Under_Chin_Center
+    400196: MR:Export:Fa_Under_Chin_Left_In
+    400198: MR:Export:Fa_Under_Chin_Left_Out
+    400200: MR:Export:Fa_Under_Chin_Right_In
+    400202: MR:Export:Fa_Under_Chin_Right_Out
+    400204: MR:Export:Fa_Under_Mouth_Center
+    400206: MR:Export:Fa_Under_Mouth_Left
+    400208: MR:Export:Fa_Under_Mouth_Right
+    400210: MR:Export:Fa_Up_Lid_Left_Center
+    400212: MR:Export:Fa_Up_Lid_Left_Inner
+    400214: MR:Export:Fa_Up_Lid_Left_Mid
+    400216: MR:Export:Fa_Up_Lid_Left_Outer
+    400218: MR:Export:Fa_Up_Lid_Right_Center
+    400220: MR:Export:Fa_Up_Lid_Right_Inner
+    400222: MR:Export:Fa_Up_Lid_Right_Mid
+    400224: MR:Export:Fa_Up_Lid_Right_Outer
+    400226: MR:Export:Free_Attacher
+    400228: MR:Export:Free_Attacher_Prop_01
+    400230: MR:Export:Free_Attacher_Prop_02
+    400232: MR:Export:Ground
+    400234: MR:Export:Head
+    400236: MR:Export:Head_Attacher
+    400238: MR:Export:HeadNub
+    400240: MR:Export:Hip_Attacher
+    400242: MR:Export:L_Calf
+    400244: MR:Export:L_Clavicle
+    400246: MR:Export:L_Finger0
+    400248: MR:Export:L_Finger01
+    400250: MR:Export:L_Finger02
+    400252: MR:Export:L_Finger0Nub
+    400254: MR:Export:L_Finger1
+    400256: MR:Export:L_Finger11
+    400258: MR:Export:L_Finger12
+    400260: MR:Export:L_Finger1Nub
+    400262: MR:Export:L_Finger2
+    400264: MR:Export:L_Finger21
+    400266: MR:Export:L_Finger22
+    400268: MR:Export:L_Finger2Nub
+    400270: MR:Export:L_Finger3
+    400272: MR:Export:L_Finger31
+    400274: MR:Export:L_Finger32
+    400276: MR:Export:L_Finger3Nub
+    400278: MR:Export:L_Finger4
+    400280: MR:Export:L_Finger41
+    400282: MR:Export:L_Finger42
+    400284: MR:Export:L_Finger4Nub
+    400286: MR:Export:L_Foot
+    400288: MR:Export:L_Forearm
+    400290: MR:Export:L_ForeTwist
+    400292: MR:Export:L_ForeTwist1
+    400294: MR:Export:L_ForeTwist2
+    400296: MR:Export:L_Hand
+    400298: MR:Export:L_Hand_Attacher
+    400300: MR:Export:L_Thigh
+    400302: MR:Export:L_Toe0
+    400304: MR:Export:L_Toe0Nub
+    400306: MR:Export:L_UpperArm
+    400308: MR:Export:LThighTwist
+    400310: MR:Export:LThighTwist1
+    400312: MR:Export:LThighTwist2
+    400314: MR:Export:LUpArmTwist
+    400316: MR:Export:LUpArmTwist1
+    400318: MR:Export:LUpArmTwist2
+    400320: MR:Export:Neck
+    400322: MR:Export:Neck1
+    400324: MR:Export:Pelvis
+    400326: MR:Export:Pistol_Holster_Attacher
+    400328: MR:Export:R_Calf
+    400330: MR:Export:R_Clavicle
+    400332: MR:Export:R_Finger0
+    400334: MR:Export:R_Finger01
+    400336: MR:Export:R_Finger02
+    400338: MR:Export:R_Finger0Nub
+    400340: MR:Export:R_Finger1
+    400342: MR:Export:R_Finger11
+    400344: MR:Export:R_Finger12
+    400346: MR:Export:R_Finger1Nub
+    400348: MR:Export:R_Finger2
+    400350: MR:Export:R_Finger21
+    400352: MR:Export:R_Finger22
+    400354: MR:Export:R_Finger2Nub
+    400356: MR:Export:R_Finger3
+    400358: MR:Export:R_Finger31
+    400360: MR:Export:R_Finger32
+    400362: MR:Export:R_Finger3Nub
+    400364: MR:Export:R_Finger4
+    400366: MR:Export:R_Finger41
+    400368: MR:Export:R_Finger42
+    400370: MR:Export:R_Finger4Nub
+    400372: MR:Export:R_Foot
+    400374: MR:Export:R_Forearm
+    400376: MR:Export:R_ForeTwist
+    400378: MR:Export:R_ForeTwist1
+    400380: MR:Export:R_ForeTwist2
+    400382: MR:Export:R_Hand
+    400384: MR:Export:R_Hand_Attacher
+    400386: MR:Export:R_Thigh
+    400388: MR:Export:R_Toe0
+    400390: MR:Export:R_Toe0Nub
+    400392: MR:Export:R_UpperArm
+    400394: MR:Export:Rifle_Holster_Attacher
+    400396: MR:Export:RThighTwist
+    400398: MR:Export:RThighTwist1
+    400400: MR:Export:RThighTwist2
+    400402: MR:Export:RUpArmTwist
+    400404: MR:Export:RUpArmTwist1
+    400406: MR:Export:RUpArmTwist2
+    400408: MR:Export:Spine
+    400410: MR:Export:Spine1
+    400412: MR:Export:Spine1_Attacher
+    400414: MR:Export:Spine2
+    400416: MR:Export:XTRA_Align_L_Ass
+    400418: MR:Export:XTRA_Align_L_Elbow
+    400420: MR:Export:XTRA_Align_L_Knee
+    400422: MR:Export:XTRA_Align_L_Pec
+    400424: MR:Export:XTRA_Align_Neck
+    400426: MR:Export:XTRA_Align_R_Ass
+    400428: MR:Export:XTRA_Align_R_Elbow
+    400430: MR:Export:XTRA_Align_R_Knee
+    400432: MR:Export:XTRA_Align_R_Pec
+    400434: MR:Export:XTRA_Mus_L_Ass
+    400436: MR:Export:XTRA_Mus_L_Elbow
+    400438: MR:Export:XTRA_Mus_L_Foot
+    400440: MR:Export:XTRA_Mus_L_Hip
+    400442: MR:Export:XTRA_Mus_L_Knee
+    400444: MR:Export:XTRA_Mus_L_Pec
+    400446: MR:Export:XTRA_Mus_L_Toe
+    400448: MR:Export:XTRA_Mus_Neck
+    400450: MR:Export:XTRA_Mus_R_Ass
+    400452: MR:Export:XTRA_Mus_R_Elbow
+    400454: MR:Export:XTRA_Mus_R_Foot
+    400456: MR:Export:XTRA_Mus_R_Hip
+    400458: MR:Export:XTRA_Mus_R_Knee
+    400460: MR:Export:XTRA_Mus_R_Pec
+    400462: MR:Export:XTRA_Mus_R_Toe
+    400464: MR:Export:XTRA_Pivot_L_Heel
+    400466: MR:Export:XTRA_Pivot_R_Heel
+    400468: MR:Export:XTRA_Target_L_Ass
+    400470: MR:Export:XTRA_Target_L_Elbow
+    400472: MR:Export:XTRA_Target_L_Foot
+    400474: MR:Export:XTRA_Target_L_Knee
+    400476: MR:Export:XTRA_Target_L_Pec
+    400478: MR:Export:XTRA_Target_R_Ass
+    400480: MR:Export:XTRA_Target_R_Elbow
+    400482: MR:Export:XTRA_Target_R_Foot
+    400484: MR:Export:XTRA_Target_R_Knee
+    400486: MR:Export:XTRA_Target_R_Pec
+    400488: MR:Export:XTRA_Up_Pec
+    400490: MR:Export:XTRA_Up_Thigh
+    400492: //RootNode
+    2100000: No Name
+    2300000: MR:Export:Back1_Attacher
+    2300002: MR:Export:Camera_Attacher_01
+    2300004: MR:Export:Camera_Attacher_02
+    2300006: MR:Export:Free_Attacher
+    2300008: MR:Export:Free_Attacher_Prop_01
+    2300010: MR:Export:Free_Attacher_Prop_02
+    2300012: MR:Export:Ground
+    2300014: MR:Export:Head_Attacher
+    2300016: MR:Export:Hip_Attacher
+    2300018: MR:Export:L_Hand_Attacher
+    2300020: MR:Export:Pistol_Holster_Attacher
+    2300022: MR:Export:R_Hand_Attacher
+    2300024: MR:Export:Rifle_Holster_Attacher
+    2300026: MR:Export:Spine1_Attacher
+    3300000: MR:Export:Back1_Attacher
+    3300002: MR:Export:Camera_Attacher_01
+    3300004: MR:Export:Camera_Attacher_02
+    3300006: MR:Export:Free_Attacher
+    3300008: MR:Export:Free_Attacher_Prop_01
+    3300010: MR:Export:Free_Attacher_Prop_02
+    3300012: MR:Export:Ground
+    3300014: MR:Export:Head_Attacher
+    3300016: MR:Export:Hip_Attacher
+    3300018: MR:Export:L_Hand_Attacher
+    3300020: MR:Export:Pistol_Holster_Attacher
+    3300022: MR:Export:R_Hand_Attacher
+    3300024: MR:Export:Rifle_Holster_Attacher
+    3300026: MR:Export:Spine1_Attacher
+    4300000: MR:Export:Head_Attacher
+    4300002: MR:Export:L_Hand_Attacher
+    4300004: MR:Export:R_Hand_Attacher
+    4300006: MR:Export:Back1_Attacher
+    4300008: MR:Export:Rifle_Holster_Attacher
+    4300010: MR:Export:Spine1_Attacher
+    4300012: MR:Export:Pistol_Holster_Attacher
+    4300014: MR:Export:Hip_Attacher
+    4300016: MR:Export:Free_Attacher
+    4300018: MR:Export:Camera_Attacher_01
+    4300020: MR:Export:Camera_Attacher_02
+    4300022: MR:Export:Free_Attacher_Prop_01
+    4300024: MR:Export:Free_Attacher_Prop_02
+    4300026: MR:Export:Ground
+    7400000: MR_Base_SpiralWalk_Left
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: MR_Base_SpiralWalk_Left
+      takeName: MR_Base_SpiralWalk_Left
+      firstFrame: 0
+      lastFrame: 1673
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: MR_Base_SpiralWalk_Left_Export(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Bip01
+      parentName: MR_Base_SpiralWalk_Left_Export(Clone)
+      position: {x: -2.5239887, y: 0.9546346, z: 0.36520424}
+      rotation: {x: -0.4858734, y: -0.47276014, z: -0.5103274, w: 0.5291416}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Pelvis
+      parentName: MR:Export:Bip01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.5, y: 0.5, z: 0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Spine
+      parentName: MR:Export:Pelvis
+      position: {x: -0.09883327, y: -0.011944346, z: 0.00000020558508}
+      rotation: {x: 0.0036219435, y: -0.00019785693, z: -0.008508241, w: 0.99995726}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Spine1
+      parentName: MR:Export:Spine
+      position: {x: -0.12146661, y: -0.00016334733, z: -0.000000061676815}
+      rotation: {x: 0.007217276, y: -0.00073078537, z: 0.02931695, w: 0.99954385}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Spine2
+      parentName: MR:Export:Spine1
+      position: {x: -0.20602363, y: -0.00012318288, z: 0.00000009608625}
+      rotation: {x: 0.007217197, y: -0.00073077687, z: -0.06331112, w: 0.9979675}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: MR:Export:XTRA_Mus_L_Pec
+      parentName: MR:Export:Spine2
+      position: {x: 0.02141693, y: -0.061557133, z: 0.034977876}
+      rotation: {x: 0.7487107, y: -0.5317081, z: -0.32276627, w: -0.22921768}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: MR:Export:XTRA_Align_L_Pec
+      parentName: MR:Export:Spine2
+      position: {x: 0.021416625, y: 0.21490917, z: 0.18128821}
+      rotation: {x: -0.6057544, y: 0.36477566, z: 0.6057544, w: -0.36477664}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:XTRA_Up_Pec
+      parentName: MR:Export:Spine2
+      position: {x: -1.398726, y: 0.09510735, z: 9.094947e-15}
+      rotation: {x: -0.035593353, y: 0.99936634, z: 0.0000006711672, w: 0.00000013911978}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:XTRA_Align_R_Pec
+      parentName: MR:Export:Spine2
+      position: {x: 0.021416625, y: 0.21490939, z: -0.18128784}
+      rotation: {x: 0.3647768, y: 0.6057543, z: 0.36477727, w: 0.6057534}
+      scale: {x: -1, y: -1, z: -1}
+    - name: MR:Export:XTRA_Mus_R_Pec
+      parentName: MR:Export:Spine2
+      position: {x: 0.02141693, y: -0.061557077, z: -0.034980312}
+      rotation: {x: 0.74931854, y: -0.5309699, z: 0.3228747, w: 0.22878972}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: MR:Export:XTRA_Mus_Neck
+      parentName: MR:Export:Spine2
+      position: {x: -0.11785308, y: -0.03453406, z: -0.00000030517577}
+      rotation: {x: 0.99518603, y: -0.09800416, z: -0.0000023221803, w: 0.0000016445463}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Neck
+      parentName: MR:Export:Spine2
+      position: {x: -0.14696622, y: 0.026359774, z: -0.00000017488017}
+      rotation: {x: -0.00045820602, y: -0.0033160832, z: -0.09573173, w: 0.99540156}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Neck1
+      parentName: MR:Export:Neck
+      position: {x: -0.050832838, y: -0.000038232527, z: -0.000000054096542}
+      rotation: {x: -0.00020821727, y: -0.0033412708, z: -0.020829601, w: 0.99977744}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Head
+      parentName: MR:Export:Neck1
+      position: {x: -0.048280142, y: -0.0005602546, z: 0.00000008378744}
+      rotation: {x: -0.00019562957, y: -0.014367973, z: 0.039851412, w: 0.9991023}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:HeadNub
+      parentName: MR:Export:Head
+      position: {x: -0.24247894, y: 0.0000000011920929, z: 0}
+      rotation: {x: -0, y: 1.733337e-33, z: 1.0408341e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:XTRA_Align_Neck
+      parentName: MR:Export:Head
+      position: {x: -0.033555754, y: -0.042091254, z: 0.00000045776366}
+      rotation: {x: 0.99447554, y: -0.10496865, z: 0.000000013977429, w: -0.00000013242241}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: MR:Export:BA_Root01
+      parentName: MR:Export:Head
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: 1.7333368e-33, z: 1.0408341e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Jaw
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.011778325, y: 0.040304374, z: -0.0000027986653}
+      rotation: {x: 0.7071072, y: -0.00000007061777, z: -0.70710635, w: -0.00000007061786}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Chin
+      parentName: MR:Export:Fa_Jaw
+      position: {x: 0.000009809971, y: -0.07751921, z: -0.056258697}
+      rotation: {x: -2.220446e-16, y: -1.7701665e-22, z: 1.8859693e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Under_Mouth_Center
+      parentName: MR:Export:Fa_Jaw
+      position: {x: 0.000010109201, y: -0.076542, z: -0.03397171}
+      rotation: {x: 0.7071067, y: 1.33358155e-14, z: 1.3335819e-14, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Lip_Lo_Left_Out
+      parentName: MR:Export:Fa_Jaw
+      position: {x: -0.019744797, y: -0.067404896, z: -0.022092896}
+      rotation: {x: 0.00000021872007, y: -0.00000007960765, z: -0.34202036, w: 0.93969256}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: MR:Export:Fa_Lip_Lo_Left_Inn
+      parentName: MR:Export:Fa_Jaw
+      position: {x: -0.010830297, y: -0.074804105, z: -0.02154541}
+      rotation: {x: -0.0000000020140667, y: 4.465074e-10, z: -0.21643938, w: 0.97629607}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Lip_Lo_Center
+      parentName: MR:Export:Fa_Jaw
+      position: {x: 0.000050897597, y: -0.0797074, z: -0.022224883}
+      rotation: {x: -2.220446e-16, y: -1.7701665e-22, z: 1.8859693e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Lip_Lo_Right_Out
+      parentName: MR:Export:Fa_Jaw
+      position: {x: 0.019756302, y: -0.0674056, z: -0.02208435}
+      rotation: {x: -0.0000000052869793, y: -0.0000000019240587, z: 0.3420198, w: 0.9396928}
+      scale: {x: 1, y: 1.0000014, z: 1}
+    - name: MR:Export:Fa_Lip_Lo_Right_Inn
+      parentName: MR:Export:Fa_Jaw
+      position: {x: 0.010876502, y: -0.0747348, z: -0.021520844}
+      rotation: {x: -0.0000005191515, y: 0.00000012911426, z: 0.21643929, w: 0.97629607}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Under_Mouth_Left
+      parentName: MR:Export:Fa_Jaw
+      position: {x: -0.0229671, y: -0.068371, z: -0.031996}
+      rotation: {x: 0.0000006874103, y: 0.00000051096305, z: -0.3420187, w: 0.93969315}
+      scale: {x: 0.9999995, y: 0.9999995, z: 1}
+    - name: MR:Export:Fa_Under_Mouth_Right
+      parentName: MR:Export:Fa_Jaw
+      position: {x: 0.022977399, y: -0.06837031, z: -0.03200119}
+      rotation: {x: 0.000000748372, y: 0.00000001868155, z: 0.34202164, w: 0.9396921}
+      scale: {x: 0.9999994, y: 1.0000014, z: 1}
+    - name: MR:Export:Fa_Tongue_Base
+      parentName: MR:Export:Fa_Jaw
+      position: {x: 0.00000084201395, y: -0.0204525, z: -0.01877823}
+      rotation: {x: -0.18989311, y: 0.0017277773, z: -0.008927825, w: 0.9817627}
+      scale: {x: 1.0000004, y: 1.0000013, z: 1.0000007}
+    - name: MR:Export:Fa_Tongue_Tip
+      parentName: MR:Export:Fa_Tongue_Base
+      position: {x: 0.00036594635, y: -0.01945694, z: -0.005529938}
+      rotation: {x: 0.1813239, y: -0.0018050924, z: 0.008913368, w: 0.9833814}
+      scale: {x: 1.0000024, y: 1.000007, z: 1.0000039}
+    - name: MR:Export:Fa_Teeth_Dw
+      parentName: MR:Export:Fa_Jaw
+      position: {x: -0.00000018432503, y: -0.000000019073486, z: -0.00000015258789}
+      rotation: {x: -0.00000023841824, y: 0.0000014305114, z: -0.00000023841886, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Cheek_Left
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.0033083232, y: 0.07826568, z: 0.05548284}
+      rotation: {x: -0.7071019, y: 0.0025726734, z: 0.70710236, w: 0.0025699802}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: MR:Export:Fa_Cheek_Right
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.0032977934, y: 0.07826796, z: -0.055486858}
+      rotation: {x: -0.7071019, y: 0.0025726734, z: 0.70710236, w: 0.0025699802}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: MR:Export:Fa_Nose_Bridge
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.041083775, y: 0.12933595, z: -0.00025151335}
+      rotation: {x: -0.7071066, y: 0.0000018164797, z: 0.70710707, w: -0.0000008749099}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Nostril_Left
+      parentName: MR:Export:Fa_Nose_Bridge
+      position: {x: -0.010012897, y: 0.004078159, z: -0.02028366}
+      rotation: {x: 1.179612e-16, y: 3.9704673e-23, z: 6.601054e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Nostril_Right
+      parentName: MR:Export:Fa_Nose_Bridge
+      position: {x: 0.009375529, y: 0.003926792, z: -0.020314025}
+      rotation: {x: -0.0000009536743, y: 1.1365163e-13, z: -0.00000023838163, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Nose_Under
+      parentName: MR:Export:Fa_Nose_Bridge
+      position: {x: -0.000283973, y: 0.0023665046, z: -0.021300048}
+      rotation: {x: 1.179612e-16, y: 3.9704673e-23, z: 6.601054e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Nose_Tip
+      parentName: MR:Export:Fa_Nose_Bridge
+      position: {x: -0.00025902496, y: -0.014277811, z: -0.008638153}
+      rotation: {x: 1.179612e-16, y: 3.9704673e-23, z: 6.601054e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Nose_Ridge
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.07083489, y: 0.12351694, z: 0.000010939546}
+      rotation: {x: -0.7071066, y: 0.0000018635582, z: 0.70710707, w: -0.00000082783146}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Adams_Apple
+      parentName: MR:Export:BA_Root01
+      position: {x: 0.07669103, y: 0.0602619, z: -0.000021556783}
+      rotation: {x: 0.68119246, y: -0.18967693, z: -0.6811916, w: -0.18967715}
+      scale: {x: 1, y: 0.99999964, z: 0.99999964}
+    - name: MR:Export:Fa_Ear_Left
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.04035702, y: 0.015267874, z: 0.07133198}
+      rotation: {x: -0.7071066, y: 0.0000018164793, z: 0.70710707, w: -0.0000008749097}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Ear_Right
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.040356975, y: 0.01526867, z: -0.07134462}
+      rotation: {x: -0.7071066, y: 0.0000018164797, z: 0.70710707, w: -0.0000008749099}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Eye_Left
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.0673075, y: 0.093449034, z: 0.03270044}
+      rotation: {x: -0.7071066, y: 0.0000019106365, z: 0.70710707, w: -0.0000007807527}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Pupil_Left
+      parentName: MR:Export:Fa_Eye_Left
+      position: {x: 0.0000017261505, y: -0.011876106, z: 0.00000030517577}
+      rotation: {x: 3.524868e-26, y: 7.76853e-14, z: -4.5373685e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Eye_Right
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.06731977, y: 0.093136646, z: -0.032082956}
+      rotation: {x: -0.7071066, y: 0.0000019106365, z: 0.70710707, w: -0.0000007807527}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Pupil_Right
+      parentName: MR:Export:Fa_Eye_Right
+      position: {x: 0.0000018692016, y: -0.011879406, z: -0.00000015258789}
+      rotation: {x: 3.524868e-26, y: 7.76853e-14, z: -4.5373685e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Up_Lid_Left_Center
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.0673075, y: 0.093449034, z: 0.03270044}
+      rotation: {x: -0.6980987, y: -0.11250342, z: 0.6981, w: -0.112505965}
+      scale: {x: 1, y: 0.99999905, z: 0.99999905}
+    - name: MR:Export:Fa_Up_Lid_Left_Outer
+      parentName: MR:Export:Fa_Up_Lid_Left_Center
+      position: {x: -0.009752139, y: -0.009777794, z: -0.0005371094}
+      rotation: {x: 0.000012472273, y: 0.0000016689304, z: 0.0000002383951, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: MR:Export:Fa_Up_Lid_Left_Inner
+      parentName: MR:Export:Fa_Up_Lid_Left_Center
+      position: {x: 0.009498691, y: -0.011093406, z: -0.0017510985}
+      rotation: {x: 0.000011488795, y: 0.0000016648859, z: 0.0000002381794, w: 1}
+      scale: {x: 1, y: 0.99999976, z: 1.0000002}
+    - name: MR:Export:Fa_Up_Lid_Left_Mid
+      parentName: MR:Export:Fa_Up_Lid_Left_Center
+      position: {x: -0.00014023304, y: -0.015123557, z: -0.0007887268}
+      rotation: {x: 0.00001296401, y: 0.0000009535975, z: 1.4696933e-10, w: 1}
+      scale: {x: 1, y: 0.99999917, z: 1.0000008}
+    - name: MR:Export:Fa_Low_Lid_Left_Center
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.0673075, y: 0.093449034, z: 0.03270044}
+      rotation: {x: 0.6910535, y: -0.14981833, z: -0.6910534, w: -0.1498156}
+      scale: {x: 1, y: 0.99999946, z: 0.99999946}
+    - name: MR:Export:Fa_Low_Lid_Left_Outer
+      parentName: MR:Export:Fa_Low_Lid_Left_Center
+      position: {x: -0.008836968, y: -0.008651581, z: -0.0017269898}
+      rotation: {x: -0.00000049173747, y: 0.0000011920918, z: -0.000000715254, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Low_Lid_Left_Inner
+      parentName: MR:Export:Fa_Low_Lid_Left_Center
+      position: {x: 0.00938147, y: -0.010403671, z: -0.0014512634}
+      rotation: {x: -0.00000049173747, y: 0.0000011920918, z: -0.000000715254, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Low_Lid_Left_Mid
+      parentName: MR:Export:Fa_Low_Lid_Left_Center
+      position: {x: 0.00040041923, y: -0.01325901, z: -0.0014385986}
+      rotation: {x: -0.00000023841835, y: 0.0000004768368, z: -0.00000047683648, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Up_Lid_Right_Center
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.06731977, y: 0.093136646, z: -0.032082956}
+      rotation: {x: -0.6980987, y: -0.11250342, z: 0.6981, w: -0.112505965}
+      scale: {x: 1, y: 0.99999905, z: 0.99999905}
+    - name: MR:Export:Fa_Up_Lid_Right_Outer
+      parentName: MR:Export:Fa_Up_Lid_Right_Center
+      position: {x: 0.0103236055, y: -0.010147171, z: -0.00068496703}
+      rotation: {x: 0.000010967256, y: 0.0000016689293, z: 0.00000023839976, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: MR:Export:Fa_Up_Lid_Right_Inner
+      parentName: MR:Export:Fa_Up_Lid_Right_Center
+      position: {x: -0.008876726, y: -0.011381607, z: -0.0018562316}
+      rotation: {x: 0.000010967256, y: 0.0000016689293, z: 0.00000023839976, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: MR:Export:Fa_Up_Lid_Right_Mid
+      parentName: MR:Export:Fa_Up_Lid_Right_Center
+      position: {x: 0.0007711291, y: -0.015415954, z: -0.0008952331}
+      rotation: {x: 0.000010848046, y: -0.00000071844084, z: -0.00000023836961, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: MR:Export:Fa_Low_Lid_Right_Center
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.06731977, y: 0.093136646, z: -0.032082956}
+      rotation: {x: 0.6910539, y: -0.14981659, z: -0.6910538, w: -0.14981386}
+      scale: {x: 1, y: 1.0000007, z: 1.0000007}
+    - name: MR:Export:Fa_Low_Lid_Right_Outer
+      parentName: MR:Export:Fa_Low_Lid_Right_Center
+      position: {x: 0.009462583, y: -0.008936309, z: -0.0016201782}
+      rotation: {x: 0.000000089407834, y: 0.0000011920943, z: -0.00000071525454, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: MR:Export:Fa_Low_Lid_Right_Inner
+      parentName: MR:Export:Fa_Low_Lid_Right_Center
+      position: {x: -0.00875665, y: -0.010690231, z: -0.001344757}
+      rotation: {x: 0.000000089407834, y: 0.0000011920943, z: -0.00000071525454, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: MR:Export:Fa_Low_Lid_Right_Mid
+      parentName: MR:Export:Fa_Low_Lid_Right_Center
+      position: {x: 0.00022922753, y: -0.013548507, z: -0.0013327026}
+      rotation: {x: 1.6158006e-13, y: -0.0000006775138, z: 0.00000023832581, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 0.9999994}
+    - name: MR:Export:Fa_Brow_Left_Inn
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.079971425, y: 0.12495596, z: 0.01610462}
+      rotation: {x: 0.7071066, y: 0.061627213, z: -0.7044164, w: 0.0000014023235}
+      scale: {x: 1.000001, y: 1.0000029, z: 1.0000004}
+    - name: MR:Export:Fa_Brow_Left_Mid
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.081974305, y: 0.11606596, z: 0.038412414}
+      rotation: {x: 0.69636434, y: 0.18301204, z: -0.6830131, w: -0.122786015}
+      scale: {x: 0.99999976, y: 0.99999964, z: 1.0000005}
+    - name: MR:Export:Fa_Brow_Left_Out
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.0776733, y: 0.09935706, z: 0.05495612}
+      rotation: {x: 0.6532815, y: 0.32650304, z: -0.62721276, w: -0.27059793}
+      scale: {x: 1.0000002, y: 0.9999984, z: 1.0000007}
+    - name: MR:Export:Fa_Brow_Right_Inn
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.079971075, y: 0.12495496, z: -0.01611708}
+      rotation: {x: -0.7044156, y: 0.0000009299232, z: 0.70710707, w: -0.061630093}
+      scale: {x: 1.0000015, y: 0.9999975, z: 1.0000004}
+    - name: MR:Export:Fa_Brow_Right_Mid
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.081974655, y: 0.11606596, z: -0.03842448}
+      rotation: {x: -0.6830123, y: 0.12278914, z: 0.6963642, w: -0.18301347}
+      scale: {x: 1.0000018, y: 1.0000025, z: 1.0000033}
+    - name: MR:Export:Fa_Brow_Right_Out
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.07767193, y: 0.099357165, z: -0.054968078}
+      rotation: {x: -0.6272108, y: 0.27059954, z: 0.6532812, w: -0.32650602}
+      scale: {x: 0.9999995, y: 1.0000024, z: 1.0000044}
+    - name: MR:Export:Fa_Brow_Center
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.08341287, y: 0.12686896, z: -0.000068584326}
+      rotation: {x: -0.7064335, y: -0.03084181, z: 0.7064341, w: -0.03084448}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: MR:Export:Fa_Forehead_Left_Out
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.09716733, y: 0.110639945, z: 0.041230682}
+      rotation: {x: -0.62693924, y: -0.32676986, z: 0.6928523, w: 0.14186014}
+      scale: {x: 0.9999998, y: 0.9999986, z: 1.0000008}
+    - name: MR:Export:Fa_Forehead_Left_Inn
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.09887782, y: 0.123284936, z: 0.012026985}
+      rotation: {x: 0.70105785, y: 0.0922956, z: -0.701057, w: 0.09229571}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: MR:Export:Fa_Forehead_Right_Out
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.097165994, y: 0.110640936, z: -0.04124372}
+      rotation: {x: 0.69285303, y: -0.1418633, z: -0.6269371, w: 0.32677114}
+      scale: {x: 1.0000001, y: 1.0000004, z: 0.99999934}
+    - name: MR:Export:Fa_Forehead_Right_Inn
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.09888237, y: 0.12327294, z: -0.012152714}
+      rotation: {x: 0.70105785, y: 0.0922956, z: -0.701057, w: 0.09229571}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: MR:Export:Fa_Temple_Left
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.090259485, y: 0.07999816, z: 0.063647084}
+      rotation: {x: -0.70105696, y: 0.09229759, z: 0.70105755, w: -0.09229665}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: MR:Export:Fa_Temple_Right
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.09026114, y: 0.07999794, z: -0.06365631}
+      rotation: {x: -0.7010573, y: -0.09229461, z: 0.70105773, w: 0.09229507}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1}
+    - name: MR:Export:Fa_Jaw_Open_Bulge_Left
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.07396474, y: 0.053757362, z: 0.07320692}
+      rotation: {x: -0.7071066, y: 0.0000018164797, z: 0.70710707, w: -0.0000008749099}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Jaw_Open_Bulge_Right
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.0739595, y: 0.053756565, z: -0.07321498}
+      rotation: {x: -0.7071066, y: 0.0000018199141, z: 0.70710695, w: -0.00000050171667}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Squint_Left_Inn
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.05821067, y: 0.10357395, z: 0.018977858}
+      rotation: {x: -0.70105696, y: 0.09229684, z: 0.7010575, w: -0.092297405}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: MR:Export:Fa_Squint_Left_Mid
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.057259, y: 0.10385395, z: 0.03329726}
+      rotation: {x: -0.7071066, y: 0.0000018635578, z: 0.70710707, w: -0.0000008278312}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Squint_Left_Out
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.05761423, y: 0.09324443, z: 0.050505757}
+      rotation: {x: -0.64845973, y: -0.28195685, z: 0.64846, w: 0.28195745}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1}
+    - name: MR:Export:Fa_Squint_Right_Out
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.05760738, y: 0.09325574, z: -0.050531738}
+      rotation: {x: 0.64845896, y: -0.28195933, z: -0.64845896, w: 0.28195918}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: MR:Export:Fa_Squint_Right_Mid
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.057258453, y: 0.10385395, z: -0.03330964}
+      rotation: {x: -0.7071066, y: 0.0000019106365, z: 0.70710707, w: -0.00000078075266}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Squint_Right_Inn
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.058290575, y: 0.10405496, z: -0.019128442}
+      rotation: {x: -0.70105714, y: -0.092294976, z: 0.701058, w: 0.09229469}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1}
+    - name: MR:Export:Fa_Eyebag_Left_Out
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.072466545, y: 0.104294956, z: 0.047125418}
+      rotation: {x: -0.7071066, y: 0.0000019106365, z: 0.70710707, w: -0.00000078075266}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Eyebag_Left_Mid
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.074031636, y: 0.11165296, z: 0.035814736}
+      rotation: {x: -0.7071066, y: 0.0000019106365, z: 0.70710707, w: -0.00000078075266}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Eyebag_Left_Inn
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.072688386, y: 0.11307496, z: 0.02005653}
+      rotation: {x: -0.7071066, y: 0.0000019106365, z: 0.70710707, w: -0.00000078075266}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Eyebag_Right_Out
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.0724745, y: 0.10431696, z: -0.04712388}
+      rotation: {x: -0.7071066, y: 0.0000019106365, z: 0.70710707, w: -0.00000078075266}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Eyebag_Right_Mid
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.0739853, y: 0.11174397, z: -0.03589957}
+      rotation: {x: -0.7071066, y: 0.0000019106365, z: 0.70710707, w: -0.0000007807527}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Eyebag_Right_Inn
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.07268604, y: 0.11307397, z: -0.020071167}
+      rotation: {x: -0.7071066, y: 0.0000019106365, z: 0.70710707, w: -0.0000007807527}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Over_Mouth_Center
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.010143667, y: 0.12448396, z: 0.000016420907}
+      rotation: {x: 0.7071072, y: -0.00000007061777, z: -0.70710635, w: -0.00000007061786}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Lip_Up_Center
+      parentName: MR:Export:BA_Root01
+      position: {x: 0.0008628148, y: 0.11888795, z: -0.0000012918026}
+      rotation: {x: 0.7071072, y: -0.00000007061777, z: -0.70710635, w: -0.00000007061786}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Lip_Up_Left_Inn
+      parentName: MR:Export:BA_Root01
+      position: {x: 0.0006090498, y: 0.11665396, z: 0.011387358}
+      rotation: {x: -0.701057, y: -0.0922961, z: 0.70105785, w: 0.09229573}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: MR:Export:Fa_Lip_Up_Left_Out
+      parentName: MR:Export:BA_Root01
+      position: {x: 0.0042580375, y: 0.10921298, z: 0.021785766}
+      rotation: {x: -0.6532809, y: -0.27059776, z: 0.6532821, w: 0.2705982}
+      scale: {x: 0.9999989, y: 0.9999989, z: 1}
+    - name: MR:Export:Fa_Lip_Corner_Left
+      parentName: MR:Export:BA_Root01
+      position: {x: 0.0066584037, y: 0.10316699, z: 0.02640817}
+      rotation: {x: -0.6408557, y: -0.2988362, z: 0.64085686, w: 0.2988367}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Lip_Up_Right_Inn
+      parentName: MR:Export:BA_Root01
+      position: {x: 0.00061152276, y: 0.116653964, z: -0.0114002405}
+      rotation: {x: -0.701057, y: 0.09229591, z: 0.70105773, w: -0.09229609}
+      scale: {x: 1.0000024, y: 1.0000005, z: 1}
+    - name: MR:Export:Fa_Lip_Up_Right_Out
+      parentName: MR:Export:BA_Root01
+      position: {x: 0.004261913, y: 0.10921199, z: -0.021799233}
+      rotation: {x: -0.6532812, y: 0.27059856, z: 0.65328157, w: -0.27059796}
+      scale: {x: 0.99999964, y: 0.99999964, z: 1}
+    - name: MR:Export:Fa_Lip_Corner_Right
+      parentName: MR:Export:BA_Root01
+      position: {x: 0.006654815, y: 0.103166975, z: -0.02642113}
+      rotation: {x: -0.64085644, y: 0.2988359, z: 0.64085656, w: -0.29883608}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: MR:Export:Fa_Under_Chin_Center
+      parentName: MR:Export:BA_Root01
+      position: {x: 0.057490427, y: 0.06684929, z: -0.000004663817}
+      rotation: {x: -0.5000005, y: 0.50000143, z: 0.4999989, w: 0.4999992}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Under_Chin_Left_In
+      parentName: MR:Export:BA_Root01
+      position: {x: 0.04844147, y: 0.0624059, z: 0.031534042}
+      rotation: {x: -0.37992942, y: 0.37992913, z: 0.5963662, w: 0.5963681}
+      scale: {x: 0.9999997, y: 1, z: 1.0000017}
+    - name: MR:Export:Fa_Under_Chin_Left_Out
+      parentName: MR:Export:BA_Root01
+      position: {x: 0.027547322, y: 0.03684339, z: 0.055686697}
+      rotation: {x: 0.5027202, y: -0.49726692, z: -0.5027186, w: -0.49726468}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: MR:Export:Fa_Under_Chin_Right_In
+      parentName: MR:Export:BA_Root01
+      position: {x: 0.0484791, y: 0.062389296, z: -0.031630058}
+      rotation: {x: -0.59636796, y: 0.59636897, z: 0.37992737, w: 0.37992716}
+      scale: {x: 0.9999995, y: 1, z: 0.9999995}
+    - name: MR:Export:Fa_Under_Chin_Right_Out
+      parentName: MR:Export:BA_Root01
+      position: {x: 0.027726464, y: 0.036901098, z: -0.055892605}
+      rotation: {x: -0.5000005, y: 0.50000143, z: 0.4999989, w: 0.4999992}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Jaw_Clench_Left
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.020876639, y: 0.045318063, z: 0.070349716}
+      rotation: {x: 0.5018155, y: -0.49817988, z: -0.5018141, w: -0.49817732}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: MR:Export:Fa_Jaw_Clench_Right
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.020901162, y: 0.045293964, z: -0.07021038}
+      rotation: {x: 0.501814, y: -0.4981813, z: -0.5018124, w: -0.49817908}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: MR:Export:Fa_Cheek_Bulge_Left_Out
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.047744393, y: 0.08944677, z: 0.06003757}
+      rotation: {x: -0.62721187, y: -0.32650414, z: 0.627212, w: 0.32650492}
+      scale: {x: 0.99999976, y: 0.99999976, z: 1}
+    - name: MR:Export:Fa_Cheek_Bulge_Right_Out
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.047607202, y: 0.08956557, z: -0.060226925}
+      rotation: {x: -0.6272107, y: 0.3265073, z: 0.62721115, w: -0.32650572}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: MR:Export:Fa_Cheek_Bulge_Left
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.03641322, y: 0.102143966, z: 0.044306386}
+      rotation: {x: -0.679715, y: -0.19490312, z: 0.6797151, w: 0.1949043}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: MR:Export:Fa_Cheek_Bulge_Right
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.036427286, y: 0.10218495, z: -0.04434331}
+      rotation: {x: -0.6797142, y: 0.19490616, z: 0.67971456, w: -0.19490626}
+      scale: {x: 0.99999964, y: 0.99999964, z: 1}
+    - name: MR:Export:Fa_Cheek_Fold_Left_A
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.036614627, y: 0.11526695, z: 0.020241095}
+      rotation: {x: -0.7071066, y: 0.0000018635578, z: 0.70710707, w: -0.0000008278312}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Cheek_Fold_Right_A
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.036614265, y: 0.11526695, z: -0.020253804}
+      rotation: {x: -0.7071066, y: 0.0000018635578, z: 0.70710707, w: -0.0000008278312}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Cheek_Fold_Left_B
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.019765265, y: 0.10751098, z: 0.03518663}
+      rotation: {x: -0.64085656, y: -0.2988347, z: 0.64085704, w: 0.29883593}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1}
+    - name: MR:Export:Fa_Cheek_Fold_Right_B
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.01976837, y: 0.107509986, z: -0.03519837}
+      rotation: {x: -0.6408558, y: 0.29883772, z: 0.6408561, w: -0.29883668}
+      scale: {x: 0.9999995, y: 0.9999995, z: 1}
+    - name: MR:Export:Fa_Cheek_Fold_Left_C
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.0046045813, y: 0.09760926, z: 0.044384547}
+      rotation: {x: -0.64085656, y: -0.29883477, z: 0.64085704, w: 0.29883587}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1}
+    - name: MR:Export:Fa_Cheek_Fold_Right_C
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.004676785, y: 0.09765067, z: -0.044433348}
+      rotation: {x: -0.6408558, y: 0.29883772, z: 0.6408561, w: -0.29883668}
+      scale: {x: 0.9999995, y: 0.9999995, z: 1}
+    - name: MR:Export:Fa_Cheek_Fold_Left_D
+      parentName: MR:Export:BA_Root01
+      position: {x: 0.016716084, y: 0.091775365, z: 0.041941684}
+      rotation: {x: -0.6408566, y: -0.2988347, z: 0.640857, w: 0.29883593}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1}
+    - name: MR:Export:Fa_Cheek_Fold_Right_D
+      parentName: MR:Export:BA_Root01
+      position: {x: 0.01671315, y: 0.09177487, z: -0.04195371}
+      rotation: {x: -0.64085644, y: 0.2988359, z: 0.64085656, w: -0.29883608}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: MR:Export:Fa_Nostril_Left_Inner
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.024952475, y: 0.112223975, z: 0.017658114}
+      rotation: {x: 0.7071068, y: -0.0000025413683, z: -0.7071067, w: -0.00000018918358}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Nostril_Right_Inner
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.024955632, y: 0.11222298, z: -0.017671384}
+      rotation: {x: 0.7071068, y: -0.000000093230874, z: -0.7071067, w: 0.000002258841}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Fa_Over_Mouth_Left
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.008033539, y: 0.11511596, z: 0.020442944}
+      rotation: {x: -0.6408566, y: -0.2988347, z: 0.640857, w: 0.29883593}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1}
+    - name: MR:Export:Fa_Over_Mouth_Right
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.008035923, y: 0.115115955, z: -0.020454857}
+      rotation: {x: -0.64085567, y: 0.29883745, z: 0.64085627, w: -0.298837}
+      scale: {x: 0.9999995, y: 0.9999995, z: 1}
+    - name: MR:Export:Fa_Dimpler_Left
+      parentName: MR:Export:BA_Root01
+      position: {x: 0.003429477, y: 0.10518698, z: 0.033387363}
+      rotation: {x: -0.6408566, y: -0.2988347, z: 0.640857, w: 0.29883593}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1}
+    - name: MR:Export:Fa_Dimpler_Right
+      parentName: MR:Export:BA_Root01
+      position: {x: 0.0034256026, y: 0.105185986, z: -0.033399433}
+      rotation: {x: -0.64085644, y: 0.2988359, z: 0.64085656, w: -0.29883608}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: MR:Export:Fa_Nose_Wrinkle_Left
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.045080207, y: 0.12192697, z: 0.012914581}
+      rotation: {x: 0.82699436, y: -0.09937211, z: -0.53921145, w: -0.124324486}
+      scale: {x: 0.99999994, y: 1.000003, z: 1.000002}
+    - name: MR:Export:Fa_Nose_Wrinkle_Right
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.04507712, y: 0.12192597, z: -0.012927419}
+      rotation: {x: -0.53921026, y: 0.12432818, z: 0.8269947, w: 0.09937077}
+      scale: {x: 0.9999994, y: 0.99999905, z: 1.0000004}
+    - name: MR:Export:Fa_Nose_Bridge_Top
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.054817602, y: 0.13152896, z: 0.00000042603517}
+      rotation: {x: 0.6798565, y: 0.1944117, z: -0.6798553, w: 0.19441204}
+      scale: {x: 1, y: 0.99999976, z: 0.99999976}
+    - name: MR:Export:Fa_Teeth_Up
+      parentName: MR:Export:BA_Root01
+      position: {x: -0.011778325, y: 0.040304374, z: -0.0000026143855}
+      rotation: {x: 0.70710737, y: 0.00000009202252, z: -0.7071062, w: 0.00000009202268}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Head_Attacher
+      parentName: MR:Export:Head
+      position: {x: -0.11941025, y: 0.024314726, z: -3.776903e-18}
+      rotation: {x: -0.00000028375203, y: -1.8968737e-12, z: 0.00000018256708, w: 1}
+      scale: {x: 1.000001, y: 0.99999994, z: 1.0000008}
+    - name: MR:Export:L_Clavicle
+      parentName: MR:Export:Neck
+      position: {x: 0.07350633, y: 0.031863037, z: 0.029020397}
+      rotation: {x: 0.70749027, y: -0.044334177, z: -0.7005734, w: -0.08178618}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:L_UpperArm
+      parentName: MR:Export:L_Clavicle
+      position: {x: -0.16968082, y: 0.00000003283866, z: -0.00000018145352}
+      rotation: {x: 0.1069403, y: -0.56135595, z: 0.20819038, w: 0.7937885}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: MR:Export:XTRA_Target_L_Pec
+      parentName: MR:Export:L_UpperArm
+      position: {x: -0.09140022, y: -0.000000067241814, z: 0.00000030499203}
+      rotation: {x: -1.2794842e-13, y: -0.000000020362224, z: 0.0000000028705547,
+        w: 1}
+      scale: {x: 0.73118114, y: 0.731181, z: 0.731181}
+    - name: MR:Export:XTRA_Align_L_Elbow
+      parentName: MR:Export:L_UpperArm
+      position: {x: -0.32508415, y: 0.19396919, z: -0.00000030575418}
+      rotation: {x: -0.0000012551016, y: 0.00000006965141, z: 0.08715602, w: 0.99619466}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1.0000001}
+    - name: MR:Export:XTRA_Mus_L_Elbow
+      parentName: MR:Export:L_UpperArm
+      position: {x: -0.29088217, y: 8.6869417e-10, z: -5.9486466e-10}
+      rotation: {x: -0.0000018999073, y: 0.0000006506712, z: -0.6946584, w: 0.7193398}
+      scale: {x: 0.999999, y: 1.0000002, z: 1.0000004}
+    - name: MR:Export:L_Forearm
+      parentName: MR:Export:L_UpperArm
+      position: {x: -0.2908825, y: -0.00000015513766, z: -0.000000021613259}
+      rotation: {x: -0.000043909353, y: 0.00055795175, z: 0.35072544, w: 0.9364782}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: MR:Export:XTRA_Target_L_Elbow
+      parentName: MR:Export:L_Forearm
+      position: {x: 0.03420189, y: 0.19396919, z: -0.00000053394143}
+      rotation: {x: -0.0000012006559, y: 0.000000018076827, z: -0.08715572, w: 0.9961947}
+      scale: {x: 0.687415, y: 0.6874149, z: 0.68741506}
+    - name: MR:Export:L_Hand
+      parentName: MR:Export:L_Forearm
+      position: {x: -0.25349325, y: 0.00000004340452, z: -0.0000000019077595}
+      rotation: {x: -0.6862465, y: 0.13019635, z: 0.0012391122, w: 0.7156208}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:L_Finger4
+      parentName: MR:Export:L_Hand
+      position: {x: -0.08889496, y: 0.0041618356, z: 0.034655295}
+      rotation: {x: -0.037190083, y: 0.23699288, z: -0.37425756, w: 0.8957581}
+      scale: {x: 0.9999999, y: 1.0000004, z: 0.99999994}
+    - name: MR:Export:L_Finger41
+      parentName: MR:Export:L_Finger4
+      position: {x: -0.034310576, y: -0.0000001825781, z: 0.00000015016111}
+      rotation: {x: 0.005519848, y: 0.004453176, z: -0.07767159, w: 0.9969538}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:L_Finger42
+      parentName: MR:Export:L_Finger41
+      position: {x: -0.020800514, y: 0.00000020881187, z: -0.00000011997751}
+      rotation: {x: 0.0049513155, y: 0.004115918, z: -0.108865805, w: 0.9940356}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: MR:Export:L_Finger4Nub
+      parentName: MR:Export:L_Finger42
+      position: {x: -0.023254322, y: -0.0000000060362786, z: 0.00000009004525}
+      rotation: {x: -7.70372e-34, y: 2.7755576e-17, z: 2.7755576e-17, w: 1}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.9999999}
+    - name: MR:Export:L_Finger3
+      parentName: MR:Export:L_Hand
+      position: {x: -0.09637613, y: -0.0031065983, z: 0.014775804}
+      rotation: {x: -0.009669, y: 0.15942898, z: -0.27726957, w: 0.9474231}
+      scale: {x: 0.99999976, y: 0.99999934, z: 1.0000006}
+    - name: MR:Export:L_Finger31
+      parentName: MR:Export:L_Finger3
+      position: {x: -0.042990245, y: 0.00000002435308, z: -0.000000007284109}
+      rotation: {x: 0.0029348421, y: 0.0016286286, z: -0.12920745, w: 0.99161196}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: MR:Export:L_Finger32
+      parentName: MR:Export:L_Finger31
+      position: {x: -0.029758113, y: 0.00000012695259, z: -0.00000010010563}
+      rotation: {x: 0.0027592068, y: 0.001911149, z: -0.04647522, w: 0.9989138}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: MR:Export:L_Finger3Nub
+      parentName: MR:Export:L_Finger32
+      position: {x: -0.024820577, y: -0.00000014374379, z: -0.000000016966789}
+      rotation: {x: 0.000000012346633, y: -0.0000000073952062, z: 0.0000000036161236,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: MR:Export:L_Finger2
+      parentName: MR:Export:L_Hand
+      position: {x: -0.10087875, y: -0.006614956, z: -0.0047566844}
+      rotation: {x: 0.0011780852, y: 0.098757654, z: -0.2605332, w: 0.9603999}
+      scale: {x: 0.99999976, y: 1.0000007, z: 0.9999995}
+    - name: MR:Export:L_Finger21
+      parentName: MR:Export:L_Finger2
+      position: {x: -0.04745022, y: 0.00000022390633, z: -0.00000008222265}
+      rotation: {x: 0.0016829127, y: 0.00056515617, z: -0.13784082, w: 0.9904528}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: MR:Export:L_Finger22
+      parentName: MR:Export:L_Finger21
+      position: {x: -0.026929185, y: -0.00000014551925, z: 0.00000006540026}
+      rotation: {x: 0.0015644989, y: 0.00083912286, z: -0.113774106, w: 0.99350506}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.99999994}
+    - name: MR:Export:L_Finger2Nub
+      parentName: MR:Export:L_Finger22
+      position: {x: -0.026669215, y: -0.00000011356699, z: 0.00000010840961}
+      rotation: {x: -0.00000001534222, y: 0.000000043063558, z: 0.000000015795852,
+        w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: MR:Export:L_Finger1
+      parentName: MR:Export:L_Hand
+      position: {x: -0.099339664, y: -0.0040450743, z: -0.03003292}
+      rotation: {x: 0.0076668807, y: 0.08716687, z: -0.20175244, w: 0.97551996}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.99999964}
+    - name: MR:Export:L_Finger11
+      parentName: MR:Export:L_Finger1
+      position: {x: -0.04173552, y: 0.000000013269655, z: 0.000000023070763}
+      rotation: {x: 0.0010011957, y: 0.0000788901, z: -0.15222341, w: 0.9883456}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: MR:Export:L_Finger12
+      parentName: MR:Export:L_Finger11
+      position: {x: -0.023186535, y: 0.000000012698926, z: 0.000000009018281}
+      rotation: {x: 0.0009580143, y: 0.00030156304, z: -0.15653436, w: 0.98767203}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: MR:Export:L_Finger1Nub
+      parentName: MR:Export:L_Finger12
+      position: {x: -0.025634494, y: -0.00000005034767, z: 0.00000009113024}
+      rotation: {x: 0.000000026930374, y: 0.000000039333475, z: 0.00000010511365,
+        w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: MR:Export:L_Finger0
+      parentName: MR:Export:L_Hand
+      position: {x: -0.025371304, y: 0.010238443, z: -0.028010415}
+      rotation: {x: 0.6455886, y: -0.55828536, z: -0.05744793, w: 0.5179118}
+      scale: {x: 1.0000002, y: 0.99999887, z: 1.0000006}
+    - name: MR:Export:L_Finger01
+      parentName: MR:Export:L_Finger0
+      position: {x: -0.046730433, y: 0.000000042710536, z: -0.000000036526014}
+      rotation: {x: 0.0019730928, y: 0.033707924, z: -0.058401864, w: 0.99772197}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: MR:Export:L_Finger02
+      parentName: MR:Export:L_Finger01
+      position: {x: -0.029731557, y: 0.0000000029011138, z: -0.0000000907058}
+      rotation: {x: -0.000000014662255, y: 0.000000029644815, z: -0.06104856, w: 0.99813485}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:L_Finger0Nub
+      parentName: MR:Export:L_Finger02
+      position: {x: -0.031112406, y: -0.000000025804967, z: 0.00000005756068}
+      rotation: {x: 0.00000009843922, y: -0.0000000104061595, z: 0.000000013007245,
+        w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: MR:Export:L_Hand_Attacher
+      parentName: MR:Export:L_Hand
+      position: {x: -0.17, y: 0.020000001, z: -0.039999995}
+      rotation: {x: -0.7071068, y: 0.7071068, z: 0.0000000046632183, w: 0.000000004667963}
+      scale: {x: 0.99999934, y: 1.0000004, z: 0.9999996}
+    - name: MR:Export:L_ForeTwist
+      parentName: MR:Export:L_UpperArm
+      position: {x: -0.2908822, y: 1.4969119e-10, z: 0.000000016633539}
+      rotation: {x: 0.00003276594, y: 0.0000010490705, z: 0.034899555, w: 0.99939084}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: MR:Export:L_ForeTwist1
+      parentName: MR:Export:L_ForeTwist
+      position: {x: -0.08449772, y: -0.000000009286865, z: -1.7094465e-10}
+      rotation: {x: 0.00003280093, y: 0.000000005991157, z: -0.000000009249978, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: MR:Export:L_ForeTwist2
+      parentName: MR:Export:L_ForeTwist1
+      position: {x: -0.08449776, y: -0.000000009286876, z: -1.7096112e-10}
+      rotation: {x: 0.000032808395, y: -0.000000008912389, z: -0.000000016697149,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:LUpArmTwist
+      parentName: MR:Export:L_Clavicle
+      position: {x: -0.16968082, y: 0.000000005960148, z: -0.00000019671513}
+      rotation: {x: 0.06861233, y: -0.08500747, z: 0.07495858, w: 0.99118483}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.99999994}
+    - name: MR:Export:LUpArmTwist1
+      parentName: MR:Export:LUpArmTwist
+      position: {x: -0.09696083, y: -0.000000018846732, z: -2.6785954e-10}
+      rotation: {x: -0.0446354, y: -0.0000000185271, z: 0.000000006381262, w: 0.99900335}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: MR:Export:LUpArmTwist2
+      parentName: MR:Export:LUpArmTwist1
+      position: {x: -0.09696075, y: 0.000000019323224, z: 0.00000007604738}
+      rotation: {x: -0.044635404, y: -0.00000000374449, z: 0.000000007786167, w: 0.99900335}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: MR:Export:R_Clavicle
+      parentName: MR:Export:Neck
+      position: {x: 0.07311144, y: 0.03187958, z: -0.029982818}
+      rotation: {x: 0.70353234, y: -0.012755491, z: 0.7070411, w: 0.070516706}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:R_UpperArm
+      parentName: MR:Export:R_Clavicle
+      position: {x: -0.16968109, y: -0.0000000030930354, z: 0.00000011066705}
+      rotation: {x: -0.15547416, y: 0.52586854, z: 0.15447424, w: 0.8218442}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: MR:Export:XTRA_Target_R_Pec
+      parentName: MR:Export:R_UpperArm
+      position: {x: -0.09139625, y: 0.000022525302, z: -0.00081733684}
+      rotation: {x: -0.004466676, y: -0.00068209175, z: 0.9999898, w: 0.000117320466}
+      scale: {x: -0.73118114, y: -0.73118114, z: -0.73118114}
+    - name: MR:Export:XTRA_Mus_R_Elbow
+      parentName: MR:Export:R_UpperArm
+      position: {x: -0.2908821, y: 8.6869373e-10, z: -0.00000007569908}
+      rotation: {x: 0.0000023132275, y: -0.0000038464004, z: -0.69465834, w: 0.71933985}
+      scale: {x: 1.0000002, y: 0.999999, z: 1}
+    - name: MR:Export:XTRA_Align_R_Elbow
+      parentName: MR:Export:R_UpperArm
+      position: {x: -0.32508415, y: 0.19396913, z: -0.0000005334792}
+      rotation: {x: -0.0000012489652, y: 0.00000008522248, z: 0.087156005, w: 0.99619466}
+      scale: {x: 1.0000001, y: 0.99999905, z: 1}
+    - name: MR:Export:R_Forearm
+      parentName: MR:Export:R_UpperArm
+      position: {x: -0.29088235, y: -0.00000008231727, z: 0.00000020695506}
+      rotation: {x: 0.000020724232, y: -0.0006928201, z: 0.42916426, w: 0.9032262}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: MR:Export:XTRA_Target_R_Elbow
+      parentName: MR:Export:R_Forearm
+      position: {x: 0.034202047, y: 0.1939692, z: -0.0000003052921}
+      rotation: {x: -0.00000093208234, y: 0.000000103233816, z: -0.08715577, w: 0.9961947}
+      scale: {x: 0.68741506, y: 0.687415, z: 0.68741494}
+    - name: MR:Export:R_Hand
+      parentName: MR:Export:R_Forearm
+      position: {x: -0.25349334, y: -0.0000000028525409, z: -0.00000014958528}
+      rotation: {x: 0.6890374, y: -0.15153773, z: -0.017161138, w: 0.708498}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:R_Finger4
+      parentName: MR:Export:R_Hand
+      position: {x: -0.088895224, y: 0.0041616783, z: -0.034655396}
+      rotation: {x: 0.00024577815, y: -0.23679051, z: -0.5083816, w: 0.82793623}
+      scale: {x: 0.99999994, y: 1.0000004, z: 1.0000001}
+    - name: MR:Export:R_Finger41
+      parentName: MR:Export:R_Finger4
+      position: {x: -0.034310535, y: -0.00000021328073, z: -0.00000010592206}
+      rotation: {x: -0.011356488, y: -0.009161881, z: -0.123287275, w: 0.99226373}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: MR:Export:R_Finger42
+      parentName: MR:Export:R_Finger41
+      position: {x: -0.02080039, y: -0.000000006984827, z: 0.000000051148156}
+      rotation: {x: -0.010516938, y: -0.011114939, z: -0.15429908, w: 0.9879057}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1}
+    - name: MR:Export:R_Finger4Nub
+      parentName: MR:Export:R_Finger42
+      position: {x: -0.023254314, y: 0.000000023491522, z: -0.000000108478226}
+      rotation: {x: -0.00000004363318, y: -0.00000007034372, z: 1, w: -3.1305522e-15}
+      scale: {x: -1, y: -0.9999999, z: -1}
+    - name: MR:Export:R_Finger3
+      parentName: MR:Export:R_Hand
+      position: {x: -0.09637612, y: -0.0031066202, z: -0.014775909}
+      rotation: {x: -0.0115792835, y: -0.18886817, z: -0.38315827, w: 0.9040932}
+      scale: {x: 0.99999976, y: 0.9999994, z: 1.0000007}
+    - name: MR:Export:R_Finger31
+      parentName: MR:Export:R_Finger3
+      position: {x: -0.042990178, y: 0.00000006457729, z: 0.00000012135024}
+      rotation: {x: -0.0055827037, y: -0.0030979614, z: -0.16357943, w: 0.98650956}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:R_Finger32
+      parentName: MR:Export:R_Finger31
+      position: {x: -0.029758185, y: 0.000000051951638, z: 0.0000001150986}
+      rotation: {x: -0.005248817, y: -0.0036351515, z: -0.0811527, w: 0.9966813}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: MR:Export:R_Finger3Nub
+      parentName: MR:Export:R_Finger32
+      position: {x: -0.024820747, y: -0.00000018610044, z: -0.00000014482048}
+      rotation: {x: 0.000000030857297, y: 0.000000030324045, z: 1, w: -8.744857e-16}
+      scale: {x: -1, y: -0.99999994, z: -1}
+    - name: MR:Export:R_Finger2
+      parentName: MR:Export:R_Hand
+      position: {x: -0.10087878, y: -0.006614858, z: 0.004756773}
+      rotation: {x: -0.009767447, y: -0.1235117, z: -0.32241443, w: 0.93845534}
+      scale: {x: 0.99999976, y: 1.0000007, z: 0.9999996}
+    - name: MR:Export:R_Finger21
+      parentName: MR:Export:R_Finger2
+      position: {x: -0.04745029, y: -0.00000006798689, z: -0.000000010649554}
+      rotation: {x: -0.0024740621, y: -0.00083108584, z: -0.15740474, w: 0.9875307}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: MR:Export:R_Finger22
+      parentName: MR:Export:R_Finger21
+      position: {x: -0.026929133, y: -0.00000030302806, z: -0.00000008588459}
+      rotation: {x: -0.0023000103, y: -0.001233484, z: -0.13340314, w: 0.99105847}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1}
+    - name: MR:Export:R_Finger2Nub
+      parentName: MR:Export:R_Finger22
+      position: {x: -0.026669297, y: 0.00000008673943, z: 0.000000026942375}
+      rotation: {x: 0.000000013628369, y: 0.000000033107362, z: 1, w: -5.124317e-16}
+      scale: {x: -1, y: -1, z: -1.0000001}
+    - name: MR:Export:R_Finger1
+      parentName: MR:Export:R_Hand
+      position: {x: -0.099339634, y: -0.004045137, z: 0.030032942}
+      rotation: {x: -0.014088339, y: -0.13177596, z: -0.22075991, w: 0.9662824}
+      scale: {x: 1.0000002, y: 0.9999999, z: 0.99999976}
+    - name: MR:Export:R_Finger11
+      parentName: MR:Export:R_Finger1
+      position: {x: -0.04173564, y: -0.000000004740225, z: 0.00000010447411}
+      rotation: {x: -0.0011521132, y: -0.000057232715, z: -0.15829636, w: 0.987391}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: MR:Export:R_Finger12
+      parentName: MR:Export:R_Finger11
+      position: {x: -0.02318641, y: 0.00000025107076, z: 0.000000192471}
+      rotation: {x: -0.0011098662, y: -0.0003142475, z: -0.162603, w: 0.98669094}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: MR:Export:R_Finger1Nub
+      parentName: MR:Export:R_Finger12
+      position: {x: -0.025634464, y: -0.00000012300347, z: -0.00000018003814}
+      rotation: {x: 0.000000020420037, y: -0.000000058754313, z: 1, w: 1.2609975e-15}
+      scale: {x: -1.0000001, y: -1, z: -1.0000002}
+    - name: MR:Export:R_Finger0
+      parentName: MR:Export:R_Hand
+      position: {x: -0.025371382, y: 0.010238401, z: 0.028010532}
+      rotation: {x: 0.6579344, y: -0.605257, z: 0.024529835, w: -0.4474199}
+      scale: {x: 1.0000001, y: 0.9999991, z: 1.0000008}
+    - name: MR:Export:R_Finger01
+      parentName: MR:Export:R_Finger0
+      position: {x: -0.046730347, y: 0.00000014192265, z: 0.000000087655735}
+      rotation: {x: -0.0019731184, y: -0.033707984, z: -0.05840191, w: 0.99772197}
+      scale: {x: 1.0000001, y: 1, z: 0.9999999}
+    - name: MR:Export:R_Finger02
+      parentName: MR:Export:R_Finger01
+      position: {x: -0.029731499, y: -0.00000009507264, z: -0.000000018138206}
+      rotation: {x: 0.0000000057319745, y: -0.00000008894062, z: -0.061048508, w: 0.99813485}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:R_Finger0Nub
+      parentName: MR:Export:R_Finger02
+      position: {x: -0.031112505, y: -0.00000006172047, z: 0.00000012800014}
+      rotation: {x: 0.00000003646063, y: -0.00000002618167, z: 1, w: 8.933679e-16}
+      scale: {x: -1, y: -1, z: -1}
+    - name: MR:Export:R_Hand_Attacher
+      parentName: MR:Export:R_Hand
+      position: {x: -0.17, y: 0.020000001, z: 0.040000003}
+      rotation: {x: -4.2516551e-10, y: 0.000000008906016, z: 0.7071068, w: 0.7071068}
+      scale: {x: 1.0000013, y: 1.0000006, z: 1.0000014}
+    - name: MR:Export:R_ForeTwist
+      parentName: MR:Export:R_UpperArm
+      position: {x: -0.29088226, y: 0.000000010072931, z: -0.000000016622216}
+      rotation: {x: -0.000032861062, y: -0.0000008922149, z: 0.034899496, w: 0.99939084}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: MR:Export:R_ForeTwist1
+      parentName: MR:Export:R_ForeTwist
+      position: {x: -0.084497675, y: 0.000000010487559, z: 1.7098443e-10}
+      rotation: {x: -0.00003280786, y: -0.000000105711074, z: -0.000000016661986,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:R_ForeTwist2
+      parentName: MR:Export:R_ForeTwist1
+      position: {x: -0.08449776, y: -0.000000008585936, z: -0.000000076122895}
+      rotation: {x: -0.000032830212, y: -0.00000009080827, z: -0.0000000017830716,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:RUpArmTwist
+      parentName: MR:Export:R_Clavicle
+      position: {x: -0.1696808, y: 0.0000000024098101, z: 0.000000037297223}
+      rotation: {x: -0.068611965, y: 0.08500709, z: 0.07495848, w: 0.9911849}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1}
+    - name: MR:Export:RUpArmTwist1
+      parentName: MR:Export:RUpArmTwist
+      position: {x: -0.09696083, y: -0.000000018846729, z: 2.6784874e-10}
+      rotation: {x: 0.044635333, y: 0.00000006534769, z: 0.000000013227198, w: 0.99900335}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: MR:Export:RUpArmTwist2
+      parentName: MR:Export:RUpArmTwist1
+      position: {x: -0.09696075, y: 2.4973862e-10, z: -0.00000015234133}
+      rotation: {x: 0.044635322, y: 0.000000080204245, z: 0.000000007325562, w: 0.99900335}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: MR:Export:Back1_Attacher
+      parentName: MR:Export:Spine2
+      position: {x: -0.0770813, y: -0.14246048, z: -0.00000015258789}
+      rotation: {x: 0.7071073, y: 0.00028162324, z: -0.7071062, w: 0.00028162368}
+      scale: {x: 1.0000008, y: 0.99999964, z: 1.0000005}
+    - name: MR:Export:Rifle_Holster_Attacher
+      parentName: MR:Export:Spine2
+      position: {x: -0.11690979, y: -0.12052914, z: -0.013022461}
+      rotation: {x: 0.70634747, y: 0.69061846, z: 0.093513496, w: 0.12399495}
+      scale: {x: 1.0000007, y: 0.9999996, z: 1.0000002}
+    - name: MR:Export:Spine1_Attacher
+      parentName: MR:Export:Spine1
+      position: {x: -0.08547096, y: 0.012302561, z: -0.000000076293944}
+      rotation: {x: 0.7063481, y: -0.032754418, z: -0.70634747, w: -0.032754447}
+      scale: {x: 1.0000008, y: 0.9999998, z: 1.0000005}
+    - name: MR:Export:LThighTwist
+      parentName: MR:Export:Spine
+      position: {x: 0.098833464, y: 0.011944552, z: 0.09719483}
+      rotation: {x: -0.052728496, y: 0.9986089, z: 0.00020052405, w: -0.000010568229}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: MR:Export:XTRA_Target_L_Ass
+      parentName: MR:Export:LThighTwist
+      position: {x: -0.0001662445, y: -0.20800002, z: -0.000074005125}
+      rotation: {x: 0.00017882179, y: -0.000831045, z: -0.00039991582, w: 0.9999996}
+      scale: {x: 0.68741506, y: 0.687415, z: 0.6874151}
+    - name: MR:Export:LThighTwist1
+      parentName: MR:Export:LThighTwist
+      position: {x: -0.14604996, y: -1.7763568e-17, z: 0.000000009536743}
+      rotation: {x: 0.00006691448, y: -0.0000000034215597, z: -0.000000015422932,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: MR:Export:LThighTwist2
+      parentName: MR:Export:LThighTwist1
+      position: {x: -0.14604996, y: 0.000000004768372, z: -1.9539925e-16}
+      rotation: {x: 0.00006691448, y: -0.0000000035385295, z: -0.000000011697381,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:RThighTwist
+      parentName: MR:Export:Spine
+      position: {x: 0.09883316, y: 0.011944283, z: -0.09719518}
+      rotation: {x: -0.052726638, y: 0.998609, z: -0.00020145239, w: 0.000010664248}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: MR:Export:XTRA_Target_R_Ass
+      parentName: MR:Export:RThighTwist
+      position: {x: 0.0000122070305, y: -0.20799789, z: 0.0073885345}
+      rotation: {x: -0.00017523782, y: 0.00083160383, z: 0.00000014572849, w: 0.99999964}
+      scale: {x: 0.687415, y: 0.68741506, z: 0.6874151}
+    - name: MR:Export:RThighTwist1
+      parentName: MR:Export:RThighTwist
+      position: {x: -0.14604996, y: 0, z: 0}
+      rotation: {x: -0.00006722047, y: 0.0000000099427515, z: 0.000000015427313, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: MR:Export:RThighTwist2
+      parentName: MR:Export:RThighTwist1
+      position: {x: -0.14604987, y: -5.684342e-16, z: 5.1514347e-16}
+      rotation: {x: -0.000067220506, y: 0.000000010174984, z: 0.000000019153108, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:XTRA_Mus_L_Hip
+      parentName: MR:Export:Pelvis
+      position: {x: -0.091569215, y: 0.14358719, z: 0.10099898}
+      rotation: {x: 0.09124472, y: 0.9958222, z: 0.00032179113, w: -0.0035323787}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: MR:Export:XTRA_Mus_R_Hip
+      parentName: MR:Export:Pelvis
+      position: {x: -0.091569595, y: 0.14358667, z: -0.101000145}
+      rotation: {x: 0.09124593, y: 0.9958221, z: -0.00032561037, w: 0.003533153}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: MR:Export:XTRA_Mus_L_Ass
+      parentName: MR:Export:Pelvis
+      position: {x: 0.00000030517577, y: 0.00000025987626, z: 0.09677337}
+      rotation: {x: 0.67504245, y: 0.7377788, z: -0.00033553303, w: 0.00036553285}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: MR:Export:XTRA_Mus_R_Ass
+      parentName: MR:Export:Pelvis
+      position: {x: -0.00000015258789, y: -0.0000001001358, z: -0.0967733}
+      rotation: {x: 0.6750908, y: 0.73751324, z: 0.012201544, w: -0.013331536}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: MR:Export:XTRA_Align_L_Ass
+      parentName: MR:Export:Pelvis
+      position: {x: 0.014797211, y: -0.2074729, z: 0.096774064}
+      rotation: {x: -0.03559242, y: 0.9993664, z: -0.0000024022563, w: -0.00000010927429}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:XTRA_Align_R_Ass
+      parentName: MR:Export:Pelvis
+      position: {x: 0.014796982, y: -0.20747364, z: -0.10408836}
+      rotation: {x: -0.03559242, y: 0.9993664, z: -0.000002140352, w: -0.0000002378869}
+      scale: {x: 0.99999994, y: 0.9999989, z: 1}
+    - name: MR:Export:XTRA_Up_Thigh
+      parentName: MR:Export:Pelvis
+      position: {x: -0.3452725, y: 0.43168652, z: -0.0000007629395}
+      rotation: {x: -0.03559242, y: 0.9993664, z: -0.0000017581027, w: -0.0000007286402}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:L_Thigh
+      parentName: MR:Export:Pelvis
+      position: {x: 0.00000014737266, y: 0.000000098698415, z: 0.097195126}
+      rotation: {x: -0.03153268, y: 0.9989738, z: -0.026921708, w: 0.018227274}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:L_Calf
+      parentName: MR:Export:L_Thigh
+      position: {x: -0.43815005, y: 0.00000006331488, z: 0.00000006293961}
+      rotation: {x: 0.00027865317, y: 0.00006458335, z: 0.22559129, w: 0.974222}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: MR:Export:L_Foot
+      parentName: MR:Export:L_Calf
+      position: {x: -0.42958772, y: 0.000000084346965, z: 0.000000033149927}
+      rotation: {x: -0.0068312054, y: 0.045148134, z: -0.16964994, w: 0.984446}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: MR:Export:L_Toe0
+      parentName: MR:Export:L_Foot
+      position: {x: -0.09897247, y: 0.14262727, z: 0.00000003883271}
+      rotation: {x: 0.000000029927367, y: 0.00000003467766, z: -0.77549535, w: 0.6313534}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:L_Toe0Nub
+      parentName: MR:Export:L_Toe0
+      position: {x: -0.09026225, y: 1.9555425e-10, z: 1.7763568e-17}
+      rotation: {x: -0.0000000020789048, y: 1, z: -0.000000007272226, w: -8.404928e-18}
+      scale: {x: -1, y: -1, z: -1}
+    - name: MR:Export:XTRA_Target_L_Foot
+      parentName: MR:Export:L_Foot
+      position: {x: -0.10848717, y: 0.014446839, z: -0.0007158088}
+      rotation: {x: 0.00000036044258, y: 0.00000031483302, z: -0.6943192, w: 0.7196672}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:XTRA_Mus_L_Toe
+      parentName: MR:Export:L_Foot
+      position: {x: -0.049720336, y: 0.070470996, z: -0.00042750358}
+      rotation: {x: -0.56072575, y: 0.4170263, z: -0.42543346, w: 0.57504964}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:XTRA_Pivot_L_Heel
+      parentName: MR:Export:L_Foot
+      position: {x: -0.09897224, y: -0.060173232, z: -0.000000095367426}
+      rotation: {x: 0.00000001390907, y: -6.7203272e-15, z: -0.0000004831615, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: MR:Export:XTRA_Mus_L_Knee
+      parentName: MR:Export:L_Calf
+      position: {x: -0.000000038146972, y: -0.0000000047683715, z: -0.000000038146972}
+      rotation: {x: -0.46450305, y: 0.5331373, z: -0.53312194, w: 0.46452397}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: MR:Export:XTRA_Target_L_Knee
+      parentName: MR:Export:L_Calf
+      position: {x: 0.026423378, y: 0.19948974, z: 0.0000072860717}
+      rotation: {x: 0.0005559738, y: -0.000623772, z: -0.7369616, w: 0.67593414}
+      scale: {x: 0.621301, y: 0.62130094, z: 0.62130094}
+    - name: MR:Export:XTRA_Mus_L_Foot
+      parentName: MR:Export:L_Calf
+      position: {x: -0.3899166, y: 0.0035693645, z: 0.00011111259}
+      rotation: {x: -0.7033033, y: 0.051582746, z: -0.055820815, w: 0.7068153}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.9999998}
+    - name: MR:Export:XTRA_Align_L_Knee
+      parentName: MR:Export:L_Thigh
+      position: {x: -0.45211044, y: 0.20074718, z: 0.0000073242186}
+      rotation: {x: 0.00061354175, y: -0.0005672206, z: -0.668264, w: 0.7439238}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:R_Thigh
+      parentName: MR:Export:Pelvis
+      position: {x: -0.00000014737266, y: -0.000000098698415, z: -0.097195126}
+      rotation: {x: -0.030054562, y: 0.99757373, z: -0.034373824, w: -0.05255327}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:R_Calf
+      parentName: MR:Export:R_Thigh
+      position: {x: -0.43815082, y: -0.000000103876765, z: -0.00000011730184}
+      rotation: {x: -0.00025161591, y: -0.000065906934, z: 0.2520855, w: 0.96770495}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: MR:Export:R_Foot
+      parentName: MR:Export:R_Calf
+      position: {x: -0.42958847, y: 0.000000108416906, z: 0.00000011750183}
+      rotation: {x: 0.0032326346, y: -0.08906358, z: -0.19535762, w: 0.9766743}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: MR:Export:R_Toe0
+      parentName: MR:Export:R_Foot
+      position: {x: -0.098972596, y: 0.1426272, z: 0.000000025667864}
+      rotation: {x: 0.000009505885, y: 0.000009624548, z: -0.71251214, w: 0.7016598}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:R_Toe0Nub
+      parentName: MR:Export:R_Toe0
+      position: {x: -0.09026225, y: -1.9553352e-10, z: -3.412559e-13}
+      rotation: {x: -0.0000000038260284, y: 3.628339e-12, z: -0.000000002078902, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:XTRA_Mus_R_Toe
+      parentName: MR:Export:R_Foot
+      position: {x: -0.04972033, y: 0.070470706, z: 0.00043074606}
+      rotation: {x: -0.5751031, y: 0.42546496, z: -0.41699442, w: 0.56067073}
+      scale: {x: 1.0000004, y: 0.9999999, z: 1.0000001}
+    - name: MR:Export:XTRA_Target_R_Foot
+      parentName: MR:Export:R_Foot
+      position: {x: -0.10846954, y: 0.013752601, z: 0.0007101154}
+      rotation: {x: 0.000000662448, y: 0.00000068602975, z: -0.6943192, w: 0.7196672}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:XTRA_Pivot_R_Heel
+      parentName: MR:Export:R_Foot
+      position: {x: -0.09897222, y: -0.0601735, z: -0.000000057229972}
+      rotation: {x: -0.0000026226044, y: 1.8758248e-12, z: -0.00000071525574, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: MR:Export:XTRA_Mus_R_Knee
+      parentName: MR:Export:R_Calf
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.46452355, y: -0.53312194, z: 0.53313607, w: -0.46450487}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+    - name: MR:Export:XTRA_Target_R_Knee
+      parentName: MR:Export:R_Calf
+      position: {x: 0.026416816, y: 0.19943802, z: -0.0000066280363}
+      rotation: {x: -0.0005546874, y: 0.0006245203, z: -0.7369615, w: 0.67593426}
+      scale: {x: 0.621301, y: 0.62130105, z: 0.6213011}
+    - name: MR:Export:XTRA_Mus_R_Foot
+      parentName: MR:Export:R_Calf
+      position: {x: -0.38991672, y: 0.0035690926, z: -0.000106363295}
+      rotation: {x: -0.70690584, y: 0.05458839, z: -0.04950397, w: 0.70345837}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: MR:Export:XTRA_Align_R_Knee
+      parentName: MR:Export:R_Thigh
+      position: {x: -0.4521066, y: 0.20069519, z: -0.000006713867}
+      rotation: {x: -0.0006118744, y: 0.0005679123, z: -0.668264, w: 0.7439238}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MR:Export:Pistol_Holster_Attacher
+      parentName: MR:Export:R_Thigh
+      position: {x: -0.12395348, y: 0.0014836979, z: 0.1008857}
+      rotation: {x: 0.029559601, y: 0.02631957, z: 0.073711716, w: 0.99649394}
+      scale: {x: 1.0000011, y: 1, z: 1.0000011}
+    - name: MR:Export:Hip_Attacher
+      parentName: MR:Export:Pelvis
+      position: {x: -0, y: 0, z: 0.000000076293944}
+      rotation: {x: 0.70710784, y: -4.329774e-17, z: -0.70710576, w: -4.3297866e-17}
+      scale: {x: 1.000001, y: 1.0000002, z: 1.0000007}
+    - name: MR:Export:Free_Attacher
+      parentName: MR:Export:Bip01
+      position: {x: -0.00932635, y: -0.000000013381603, z: -0.96183926}
+      rotation: {x: 0.0000008781765, y: -0.000000075498114, z: -0.0000002384185, w: 1}
+      scale: {x: 0.9999996, y: 1.0000001, z: 0.99999964}
+    - name: MR:Export:Camera_Attacher_01
+      parentName: MR:Export:Bip01
+      position: {x: -0.00932635, y: -0.000000013381603, z: -0.96183926}
+      rotation: {x: 0.0000008781765, y: -0.000000075498114, z: -0.0000002384185, w: 1}
+      scale: {x: 0.9999996, y: 1.0000001, z: 0.99999964}
+    - name: MR:Export:Camera_Attacher_02
+      parentName: MR:Export:Bip01
+      position: {x: -0.00932635, y: -0.000000013381603, z: -0.96183926}
+      rotation: {x: 0.0000008781765, y: -0.000000075498114, z: -0.0000002384185, w: 1}
+      scale: {x: 0.9999996, y: 1.0000001, z: 0.99999964}
+    - name: MR:Export:Free_Attacher_Prop_01
+      parentName: MR:Export:Bip01
+      position: {x: -0.00932635, y: -0.000000013381603, z: -0.96183926}
+      rotation: {x: 0.0000008781765, y: -0.000000075498114, z: -0.0000002384185, w: 1}
+      scale: {x: 0.9999996, y: 1.0000001, z: 0.99999964}
+    - name: MR:Export:Free_Attacher_Prop_02
+      parentName: MR:Export:Bip01
+      position: {x: -0.00932635, y: -0.000000013381603, z: -0.96183926}
+      rotation: {x: 0.0000008781765, y: -0.000000075498114, z: -0.0000002384185, w: 1}
+      scale: {x: 0.9999996, y: 1.0000001, z: 0.99999964}
+    - name: MR:Export:Ground
+      parentName: MR_Base_SpiralWalk_Left_Export(Clone)
+      position: {x: -2.5239887, y: 0, z: 0.36520424}
+      rotation: {x: 0.011197525, y: 0.70701814, z: 0.70701814, w: -0.011197525}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

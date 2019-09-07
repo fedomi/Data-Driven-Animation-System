@@ -1,0 +1,1 @@
+- This model will use local positions for body joints and trajectories
